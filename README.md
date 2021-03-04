@@ -13,7 +13,7 @@ Meu primeiro contato com a programação foi em 2018 onde aprendi Turbo pascal, 
 ![HTML5](https://img.shields.io/badge/-HTML5-060606?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-060606?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-060606?style=flat&logo=javascript)
-![PHP](https://img.shields.io/badge/-phpMyAdmin-060606?style=flat&logo=phpMyAdmin)
+![PHP](https://img.shields.io/badge/-PHP-060606?style=flat&logo=PHP)
 ![SQL](https://img.shields.io/badge/-SQL-060606?style=flat&logo=MySQL)
 
 </details>
