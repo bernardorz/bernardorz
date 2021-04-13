@@ -1,3 +1,4 @@
+![image](https://raw.githubusercontent.com/bernardorz/adrielborges/master/assets/cover.png)
 
 Olá me chamo Bernardo Rizzatti, tenho 16 anos, atualmente trabalho com desenvolvimento web na Brasil connecting, estou cursando o ensino médio técnico em programação.
 
