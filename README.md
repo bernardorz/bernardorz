@@ -2,7 +2,7 @@
 
 Olá me chamo Bernardo Rizzatti, tenho 16 anos, atualmente trabalho com desenvolvimento web na Brasil connecting, estou cursando o ensino médio técnico em programação.
 
-Meu primeiro contato com a programação foi em 2018 onde aprendi Turbo pascal, foi nesta linguagem de desenvolvi logica de programação.
+Meu primeiro contato com a programação foi em 2018 onde aprendi Turbo pascal.
 
 <br>
 <details open>
