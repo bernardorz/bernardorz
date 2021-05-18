@@ -48,7 +48,7 @@ Meu primeiro contato com a programação foi em 2018 onde aprendi Turbo pascal.
 <div align="center">
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/bernardo-rizzatti-6382ab1a6/)
-[![Instagram](https://img.shields.io/badge/-Instagram-060606?style=flat&labelColor=0D0D0D&logo=instagram&logoColor=white)](https://www.instagram.com/bernardozjj/)
+<!-- [![Instagram](https://img.shields.io/badge/-Instagram-060606?style=flat&labelColor=0D0D0D&logo=instagram&logoColor=white)](https://www.instagram.com/bernardozjj/) -->
 
 
 </div>
