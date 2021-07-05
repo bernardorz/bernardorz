@@ -1,11 +1,8 @@
-<h1 align="center">Hello there! 👋</h1>
+<h1 align="center">Hello there :) </h1>
 <p align="center"><b>Welcome to my profile! 🚀</b></p>
 
 
 <p align="center">
-  <a href="https://img.shields.io/github/followers/bernardorz?label=Follow&style=social">
-    <img src="https://img.shields.io/github/followers/bernardorz?label=Follow&style=social">
-  </a>
   <a href="hhttps://www.linkedin.com/in/bernardo-rizzatti-6382ab1a6/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
   </a>
