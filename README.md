@@ -2,11 +2,7 @@
 <p align="center"><b>Welcome to my profile! 🚀</b></p>
 
 
-<p align="center">
-  <a href="hhttps://www.linkedin.com/in/bernardo-rizzatti-6382ab1a6/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
-  </a>
-</p>
+
 
 <h2 align="center">Tech & Tools Preference</h2>
 
