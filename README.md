@@ -18,13 +18,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/react-native/react-native.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-- :office_worker: Currently working as Back-End enginner pleno.
+- :office_worker: Currently working as Back-End enginner.
 - :blue_heart: Techs: React.js, Next.JS, TypeScript, Node.js, Docker, MongoDB, Postgres, Heroku.
 - :new: Studying: Clean Architecture.
 <p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bernardorz&show_icons=true&count_private=true&theme=radical&hide=issues" />
-</a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardorz&layout=compact&theme=radical" />
 </a>
