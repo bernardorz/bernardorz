@@ -19,8 +19,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 - :office_worker: Currently working as Back-End enginner.
-- :blue_heart: Techs: React.js, Next.JS, TypeScript, Node.js, Docker, MongoDB, Postgres, Heroku.
-- :new: Studying: Clean Architecture.
+- :blue_heart: Techs: React.js, TypeScript, Node.js, Docker, MongoDB, Postgres, Heroku.
+- :new: Enthusiast: Clean Architecture.
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardorz&layout=compact&theme=radical" />
