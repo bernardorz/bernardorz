@@ -3,10 +3,8 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/bernardorz)](https://github.com/bernardorz)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bernardo-rizzatti-6382ab1a6/)](https://www.linkedin.com/in/bernardo-rizzatti-6382ab1a6/)
 ```javascript
-    process.stdout.write(` 
-  ̿̿ ̿̿ ̿̿ ̿'̿'\̵͇̿̿\з= 🤡 =ε/̵͇̿̿/’̿’̿ ̿ ̿̿ ̿̿ ̿̿  
-         (   .  )  
-         __//\\__`);
+    process.stdout.write('Welcome to my profile')
+
  ```
 
 
