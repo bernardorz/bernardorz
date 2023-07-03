@@ -17,6 +17,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 - Currently working as Back-End enginner.
-- Techs: React.js, TypeScript, Node.js, Docker, MongoDB, Postgres, Heroku.
+- Techs: Typescript, NodeJs, Go, NestJs, Docker, Kubernets, Elasticsearch, SQL, NOSQL, RabbitMQ.
 - Enthusiast: Clean Architecture.
 <!--> :octocat: 
